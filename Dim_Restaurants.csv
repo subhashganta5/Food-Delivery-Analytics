@@ -1,0 +1,121 @@
+RestaurantID,RestaurantName,Cuisine,City,Rating,PriceCategory
+2001,Grill Nation 1,North Indian,Chennai,4.3,Low
+2002,Grill Nation 2,North Indian,Delhi,4.6,Medium
+2003,Pizza Palace 3,South Indian,Bengaluru,4.7,Medium
+2004,Sushi Bay 4,Mexican,Kolkata,4.7,High
+2005,Pizza Palace 5,Italian,Kolkata,4.7,Medium
+2006,Taco Town 6,Indian,Pune,3.9,Low
+2007,Burger House 7,North Indian,Ahmedabad,4.1,Medium
+2008,Fresh Bowl 8,South Indian,Delhi,3.7,Medium
+2009,Burger House 9,Italian,Hyderabad,4.1,Low
+2010,Fresh Bowl 10,Fast Food,Ahmedabad,3.8,Medium
+2011,Curry Leaf 11,Fast Food,Chennai,4.6,Low
+2012,Burger House 12,Indian,Mumbai,4.1,High
+2013,Spice Garden 13,South Indian,Bengaluru,4.8,High
+2014,Curry Leaf 14,Japanese,Bengaluru,4.7,Low
+2015,Spice Garden 15,South Indian,Chennai,4.4,Low
+2016,Burger House 16,Chinese,Pune,3.9,High
+2017,Royal Tandoor 17,Italian,Pune,3.9,Low
+2018,Biryani Hub 18,Indian,Chennai,4.8,High
+2019,Burger House 19,Mexican,Bengaluru,4.0,Medium
+2020,Pizza Palace 20,South Indian,Chennai,4.3,Low
+2021,Wok Express 21,North Indian,Bengaluru,4.3,Low
+2022,Spice Garden 22,Japanese,Mumbai,4.8,Low
+2023,Dosa Delight 23,Indian,Bengaluru,3.6,Medium
+2024,Taco Town 24,Japanese,Mumbai,4.4,Medium
+2025,Burger House 25,Mexican,Pune,3.6,Medium
+2026,Biryani Hub 26,Japanese,Mumbai,3.6,Medium
+2027,Royal Tandoor 27,Chinese,Ahmedabad,4.8,Low
+2028,Curry Leaf 28,Healthy,Chennai,3.8,High
+2029,Curry Leaf 29,Japanese,Pune,4.2,Low
+2030,Biryani Hub 30,North Indian,Ahmedabad,4.2,Low
+2031,Curry Leaf 31,Fast Food,Chennai,4.2,Medium
+2032,Curry Leaf 32,Mexican,Bengaluru,4.4,Medium
+2033,Dosa Delight 33,Healthy,Ahmedabad,3.8,Low
+2034,Royal Tandoor 34,Healthy,Mumbai,3.6,Low
+2035,Dosa Delight 35,North Indian,Kolkata,4.3,Low
+2036,Sushi Bay 36,Italian,Mumbai,4.5,High
+2037,Biryani Hub 37,Japanese,Ahmedabad,4.0,Low
+2038,Pizza Palace 38,South Indian,Ahmedabad,4.8,Low
+2039,Sushi Bay 39,Healthy,Bengaluru,4.0,High
+2040,Biryani Hub 40,Chinese,Hyderabad,4.6,High
+2041,Pizza Palace 41,Fast Food,Hyderabad,4.1,Medium
+2042,Grill Nation 42,Japanese,Kolkata,3.8,High
+2043,Wok Express 43,South Indian,Pune,4.8,Medium
+2044,Biryani Hub 44,Indian,Pune,4.4,High
+2045,Pizza Palace 45,South Indian,Kolkata,3.6,High
+2046,Spice Garden 46,Mexican,Hyderabad,4.6,Medium
+2047,Wok Express 47,Indian,Bengaluru,3.8,High
+2048,Sushi Bay 48,North Indian,Kolkata,4.5,Medium
+2049,Dosa Delight 49,Mexican,Kolkata,3.8,Low
+2050,Pizza Palace 50,Chinese,Ahmedabad,4.3,Medium
+2051,Pizza Palace 51,South Indian,Kolkata,4.9,High
+2052,Pizza Palace 52,Indian,Mumbai,3.6,Low
+2053,Taco Town 53,Japanese,Mumbai,4.4,Low
+2054,Pizza Palace 54,Healthy,Bengaluru,4.7,High
+2055,Grill Nation 55,Fast Food,Kolkata,4.1,Medium
+2056,Dosa Delight 56,North Indian,Ahmedabad,3.8,Medium
+2057,Grill Nation 57,Japanese,Hyderabad,4.7,Low
+2058,Dosa Delight 58,Mexican,Chennai,4.3,Low
+2059,Grill Nation 59,Japanese,Hyderabad,4.5,Low
+2060,Taco Town 60,Italian,Ahmedabad,3.7,High
+2061,Royal Tandoor 61,Mexican,Chennai,3.6,High
+2062,Burger House 62,Japanese,Bengaluru,4.4,High
+2063,Sushi Bay 63,Mexican,Bengaluru,4.6,Medium
+2064,Curry Leaf 64,Mexican,Hyderabad,4.6,Medium
+2065,Fresh Bowl 65,Japanese,Ahmedabad,4.3,Medium
+2066,Curry Leaf 66,South Indian,Kolkata,3.9,Low
+2067,Taco Town 67,South Indian,Chennai,3.6,Medium
+2068,Grill Nation 68,Indian,Mumbai,4.4,Medium
+2069,Wok Express 69,Japanese,Hyderabad,3.6,High
+2070,Wok Express 70,South Indian,Bengaluru,3.7,Medium
+2071,Wok Express 71,Indian,Chennai,4.5,High
+2072,Grill Nation 72,Fast Food,Mumbai,4.4,Medium
+2073,Wok Express 73,Chinese,Mumbai,4.2,High
+2074,Curry Leaf 74,Italian,Hyderabad,4.9,High
+2075,Royal Tandoor 75,Healthy,Mumbai,4.6,Low
+2076,Taco Town 76,Fast Food,Ahmedabad,3.8,High
+2077,Spice Garden 77,South Indian,Pune,4.6,Low
+2078,Pizza Palace 78,Japanese,Hyderabad,4.1,Medium
+2079,Taco Town 79,Mexican,Ahmedabad,3.8,High
+2080,Royal Tandoor 80,South Indian,Kolkata,3.7,Medium
+2081,Wok Express 81,Japanese,Hyderabad,4.0,Medium
+2082,Biryani Hub 82,Mexican,Hyderabad,4.4,Medium
+2083,Curry Leaf 83,South Indian,Chennai,3.9,Low
+2084,Sushi Bay 84,Healthy,Chennai,4.1,High
+2085,Taco Town 85,Chinese,Delhi,4.2,High
+2086,Curry Leaf 86,Mexican,Mumbai,3.5,Low
+2087,Spice Garden 87,Healthy,Bengaluru,3.6,Low
+2088,Curry Leaf 88,Chinese,Ahmedabad,4.5,Medium
+2089,Spice Garden 89,Indian,Delhi,4.4,Low
+2090,Grill Nation 90,Italian,Delhi,4.5,Low
+2091,Grill Nation 91,Fast Food,Bengaluru,4.0,High
+2092,Biryani Hub 92,Fast Food,Mumbai,3.9,Medium
+2093,Sushi Bay 93,Japanese,Bengaluru,4.8,Medium
+2094,Taco Town 94,North Indian,Kolkata,3.9,Low
+2095,Spice Garden 95,Healthy,Chennai,4.0,Low
+2096,Wok Express 96,Fast Food,Chennai,4.1,Medium
+2097,Grill Nation 97,Healthy,Delhi,3.7,Medium
+2098,Pizza Palace 98,Mexican,Bengaluru,4.6,Low
+2099,Royal Tandoor 99,South Indian,Bengaluru,3.6,Low
+2100,Grill Nation 100,South Indian,Bengaluru,4.6,Low
+2101,Pizza Palace 101,Indian,Ahmedabad,4.8,High
+2102,Wok Express 102,Fast Food,Kolkata,4.5,Medium
+2103,Fresh Bowl 103,Japanese,Hyderabad,4.2,Medium
+2104,Fresh Bowl 104,Chinese,Bengaluru,3.5,High
+2105,Biryani Hub 105,Mexican,Ahmedabad,4.8,Medium
+2106,Sushi Bay 106,South Indian,Pune,4.1,High
+2107,Curry Leaf 107,Mexican,Bengaluru,4.7,Medium
+2108,Royal Tandoor 108,South Indian,Bengaluru,4.4,Low
+2109,Dosa Delight 109,Chinese,Hyderabad,3.9,Medium
+2110,Sushi Bay 110,North Indian,Bengaluru,4.2,High
+2111,Taco Town 111,Chinese,Ahmedabad,3.7,Low
+2112,Taco Town 112,Chinese,Hyderabad,4.2,Low
+2113,Royal Tandoor 113,Mexican,Chennai,4.9,Medium
+2114,Spice Garden 114,North Indian,Hyderabad,3.6,High
+2115,Dosa Delight 115,Italian,Hyderabad,3.8,High
+2116,Sushi Bay 116,Mexican,Ahmedabad,3.7,High
+2117,Biryani Hub 117,Indian,Delhi,4.5,Medium
+2118,Royal Tandoor 118,Indian,Hyderabad,3.8,High
+2119,Spice Garden 119,Fast Food,Mumbai,4.4,Medium
+2120,Royal Tandoor 120,Fast Food,Bengaluru,4.7,Low
